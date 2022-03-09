@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehedifoysal&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<h2 align="center"> GITHUB STATS </h2>
+<div align="center">
+    <a href="https://github.com/mehedifoysal" >
+        <img height="130em" title="github stats" src="http://github-readme-streak-stats.herokuapp.com?user=mehedifoysal&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+        <img height="130em" title="github stats" src="https://github-readme-stats.vercel.app/api?username=mehedifoysal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+        <img height="130em" title="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedifoysal&layout=compact&langs_count=7&theme=tokyonight">
+    </a>
+    
+</div>
+<hr/>
 
 
 <!--
