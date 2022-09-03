@@ -45,6 +45,18 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/mehedifoysal/mehedifoysal/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+<h2 align="center"> Stackoverflow & Dev Card </h2>
+<p align="center">
+  <a href="https://stackoverflow.com/users/14949565/mehedi-foysal">
+  <img title="Mehedi Foysal's Stack Overflow" src="https://github-readme-stackoverflow.vercel.app/?userID=14949565&theme=dark" />
+  </a>
+    <a href="https://app.daily.dev/mehedifoysal"><img src="https://api.daily.dev/devcards/5bd78b20aea44c9396f5ac6dced19b3a.png?r=wq0" width="220" alt="Mehedi Foysal's Dev Card"/></a>
+</p>
+
+<h2 align="center"> VISITORS </h2>
+<p align="center">
+    <img title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=mehedifoysal" />
+</p>
 
 <!--
 **mehedifoysal/mehedifoysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
