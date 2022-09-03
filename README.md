@@ -5,8 +5,6 @@
     <a href="https://github.com/mehedifoysal" >
         <img height="180em" title="github stats" src="https://github-readme-stats.vercel.app/api?username=mehedifoysal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         <img height="180em" title="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedifoysal&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a>
-    
 </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/mehedifoysal/mehedifoysal/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/mehedifoysal/mehedifoysal/output/github-contribution-grid-snake.svg#gh-light-mode-only)
