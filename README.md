@@ -50,7 +50,7 @@
   <a href="https://stackoverflow.com/users/14949565/mehedi-foysal">
   <img title="Mehedi Foysal's Stack Overflow" src="https://github-readme-stackoverflow.vercel.app/?userID=14949565&theme=dark" />
   </a>
-    <a href="https://app.daily.dev/mehedifoysal"><img src="https://api.daily.dev/devcards/5bd78b20aea44c9396f5ac6dced19b3a.png?r=wq0" width="220" alt="Mehedi Foysal's Dev Card"/></a>
+  <a href="https://app.daily.dev/mehedifoysal"><img src="https://api.daily.dev/devcards/5f0dc044be2c455ca82587c7e331e0eb.png?r=tse" width="400" alt="Mehedi Foysal's Dev Card"/></a>
 </p>
 
 <h2 align="center"> VISITORS </h2>
