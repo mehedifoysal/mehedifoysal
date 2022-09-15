@@ -43,7 +43,9 @@
         <img height="150em" title="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedifoysal&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<!--
 ![github contribution grid snake animation](https://raw.githubusercontent.com/mehedifoysal/mehedifoysal/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+-->
 
 <h2 align="center"> Stackoverflow & Dev Card </h2>
 <p align="center">
